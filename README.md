@@ -26,8 +26,7 @@ This GitHub repository contains an in-depth exploratory data analysis (EDA) on t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ub-062/diabetes-india-eda.git
-cd diabetes-india-eda
+gh repo clone ub-062/EDA-On-Diabetes-Status-In-India
 ```
 
 2. Install the required dependencies:
