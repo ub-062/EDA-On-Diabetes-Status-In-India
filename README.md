@@ -55,5 +55,3 @@ Contributions are welcome! If you find any issues, have suggestions for improvem
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to modify the sections or add more details based on the specifics of your analysis and the content you want to include in the README file.
